@@ -8,7 +8,7 @@ $email_form = 'website@gmail.com';
 $email_subject = 'Message from website';
 $email_body = "User Name : $name.\n"."User Email : $email.\n"."subject: $subject.\n".message : $message.\n";
 
-$to = 'aviashishranjan@gmail.com';
+$to = 'aadarshrajj2704@gmail.com';
 $headers = "From : $email_form \r\n";
 
 $headers = "Reply-To : $email \r\n";
